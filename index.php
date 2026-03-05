@@ -161,7 +161,7 @@ $cucineInfo = [
             <div>
                 <div class="inline-flex items-center gap-2 bg-white border-2 border-amber-200 rounded-full px-4 py-2 mb-6 shadow-sm">
                     <span class="text-amber-500 text-xs">✦</span>
-                    <span class="text-xs font-medium text-amber-700 tracking-wider uppercase">Guida gastronomica 2024</span>
+                    <span class="text-xs font-medium text-amber-700 tracking-wider uppercase">Guida gastronomica 2026</span>
                     <span class="text-amber-500 text-xs">✦</span>
                 </div>
                 <h1 class="fraunces text-8xl font-bold text-stone-900 leading-none mb-2">
